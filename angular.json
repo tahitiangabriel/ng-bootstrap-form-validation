@@ -143,6 +143,5 @@
         }
       }
     }
-  },
-  "defaultProject": "ngx-bootstrap-form-validation"
+  }
 }
